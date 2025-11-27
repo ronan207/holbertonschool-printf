@@ -22,6 +22,14 @@ Format specifications, beginning with the percent sign (%), determine the output
  %x print a number in hexidecimal (base 16)
  %% print a percent sign (\% also works
 
+# Requierement
+Ubuntu 20.04 LTS
+Compilation: gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format
+Betty style mandatory
+No global variables
+Max 5 functions per file
+All prototypes in main.h
+
 # Prototype
 
 int _printf(const char *format, ...);
