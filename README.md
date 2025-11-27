@@ -10,17 +10,17 @@ Format specifications, beginning with the percent sign (%), determine the output
 
 # Special Characters
 
- %c print a single character\n
- %d print a decimal (base 10) number\n
- %e print an exponential floating-point number\n
- %f print a floating-point number\n
- %g print a general-format floating-point number\n
- %i print an integer in base 10\n
- %o print a number in octal (base 8)\n
- %s print a string of characters\n
- %u print an unsigned decimal (base 10) number\n
- %x print a number in hexidecimal (base 16)\n
- %% print a percent sign (\% also works\n
+ %c print a single character
+ %d print a decimal (base 10) number
+ %e print an exponential floating-point number
+ %f print a floating-point number
+ %g print a general-format floating-point number
+ %i print an integer in base 10
+ %o print a number in octal (base 8)
+ %s print a string of characters
+ %u print an unsigned decimal (base 10) number
+ %x print a number in hexidecimal (base 16)
+ %% print a percent sign (\% also works
 
 # Prototype
 
